@@ -2,9 +2,17 @@
 
 ## Sobre
 
-Interpretador em tempo real sinais de libras referentes à caracteres.
+Interpretador, em tempo real, do alfabeto em libras.
 
 Até o momento, apenas caracteres de gestos estáticos são interpreatados, portanto caracteres como J, X e Z não são reconhecidos.
+
+Referência da execução dos gestos do alfabeto manual em libras: [http://www.spreadthesign.com/pt.br/alphabet/11/](http://www.spreadthesign.com/pt.br/alphabet/11/)
+
+Representação do alfabeto manual:
+
+![Alfabeto manual de libras](https://s1.static.brasilescola.uol.com.br/img/2019/09/alfabeto.png)
+
+**Fonte:** [https://brasilescola.uol.com.br/educacao/lingua-brasileira-sinais-libras.htm](https://brasilescola.uol.com.br/educacao/lingua-brasileira-sinais-libras.htm)
 
 ## Como executar
 
@@ -25,3 +33,7 @@ Já a versão que executa na máquina tem, além da detecção e interpretação
 Durante a geração de *dataset* a sugestão é inclinar, afastar, aproximar e girar a mão durante a coleta de imagens para generalizar as amotras e, consequentemente, aumentar as chances de produção de modelos mais eficientes
 
 Caso seja pressionada a tecla *ESC* o sistema será encerrado.
+
+## Proposta de evolução futura
+
+Implementar identificação dos caracteres que exigem movimento e, porteriormente, gestos  que significam palavras inteiras.

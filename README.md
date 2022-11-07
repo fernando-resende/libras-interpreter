@@ -36,4 +36,4 @@ Caso seja pressionada a tecla *ESC* o sistema será encerrado.
 
 ## Proposta de evolução futura
 
-Implementar identificação dos caracteres que exigem movimento e, porteriormente, gestos  que significam palavras inteiras.
+Implementar identificação dos caracteres que exigem movimento e, porteriormente, gestos que significam palavras inteiras.
